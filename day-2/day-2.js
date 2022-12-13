@@ -100,5 +100,5 @@ const task2Result = (await getDataFromFile("data.txt"))
     0
   );
 
-console.log("task 1 => ", task1Result);
-console.log("task 2 => ", task2Result);
+console.log("[Day 2] task 1 => ", task1Result);
+console.log("[Day 2] task 2 => ", task2Result);
